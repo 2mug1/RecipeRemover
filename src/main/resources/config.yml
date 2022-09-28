@@ -1,0 +1,3 @@
+# クラフト禁止にしたいアイテムの org.bukkit.Material
+materials:
+  - STICK
